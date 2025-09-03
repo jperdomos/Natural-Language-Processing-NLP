@@ -8,9 +8,6 @@
 This repository contains notebooks, assignments, and projects developed in the Natural Language Processing (PLN) course at the Universidad Nacional de Colombia.  
 It combines theoretical concepts with practical applications using Python and modern NLP libraries.
 
-**Short description (≤350 characters):**  
-Repository for the Natural Language Processing (PLN) course at Universidad Nacional de Colombia. Includes notebooks, assignments, and projects covering preprocessing, embeddings, classification, and modern NLP models (RNNs, LSTMs, Transformers).
-
 ---
 
 ## Repository Structure  
